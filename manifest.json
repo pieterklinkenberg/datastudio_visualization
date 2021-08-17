@@ -15,9 +15,9 @@
     "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/bar_chart.png",
     "description": "Bar chart written in d3.js",
     "resource": {
-      "js": "gs://bolcom-pro-pq-analytics-f1a-public/viz/myViz.js",
-      "config": "gs://bolcom-pro-pq-analytics-f1a-public/viz/myViz.json",
-      "css": "gs://bolcom-pro-pq-analytics-f1a-public/viz/myViz.css"
+      "js": "https://github.com/pieterklinkenberg/datastudio_visualization/blob/main/myViz.js",
+      "config": "https://github.com/pieterklinkenberg/datastudio_visualization/blob/main/myViz.json",
+      "css": "https://github.com/pieterklinkenberg/datastudio_visualization/blob/main/myViz.css"
     }
   }]
 }
